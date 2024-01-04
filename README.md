@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Olá, eu sou Pâmela! 👩‍💻 Sou formado em Informática pelo IFPB e sou apaixonada pelo mundo do desenvolvimento web.<br>💼 Além de minha formação técnica, tenho experiência prática em HTML, CSS, JavaScript, e React. Meu objetivo é criar interfaces web intuitivas e atraentes, proporcionando ótimas experiências de usuário.<br>📚 Estou constantemente buscando aprender novas tecnologias e aprimorar meu conjunto de habilidades. Adoro desafios e estou sempre aberta a novas oportunidades de colaboração e aprendizado.<br>🌐 Dê uma olhada nos meus projetos abaixo, e sinta-se à vontade para entrar em contato para discutir colaborações ou compartilhar dicas sobre desenvolvimento web. Vamos construir coisas incríveis juntos! 💻✨
-
+Link para o meu portfolio: https://my-portfolio-ten-pied-73.vercel.app/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@pamialvs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/p%C3%A2mela-fernandes-59baaa272/) 
