@@ -1,4 +1,4 @@
-![Descrição do GIF](https://64.media.tumblr.com/ca1426a2c6901950b769b23a4783f714/6579c6bf45b9eee7-44/s640x960/00f2998f7ffc89c4825e28838b8fc190d12bf0d5.gifv](https://tenor.com/view/game-video-games-room-gamer-computer-gif-12345696)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@pamialvs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/p%C3%A2mela-fernandes-59baaa272/) 
