@@ -12,8 +12,6 @@ Link para o meu portfolio: https://my-portfolio-ten-pied-73.vercel.app/
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pamialvs&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pamialvs&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pamialvs&icon=7&color=10)](https://visitcount.itsvg.in)
