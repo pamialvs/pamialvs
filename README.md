@@ -1,4 +1,5 @@
 
+![rosagif](https://github.com/user-attachments/assets/4d106752-4c11-4dfe-8b8f-dd2f45f8b77c)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@pamialvs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/p%C3%A2mela-fernandes-59baaa272/) 
