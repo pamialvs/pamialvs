@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" align="right" width="400">
 
 <p align="left">
-  Olá! Sou <strong>Pâmela</strong> e minha principal área de atuação é <strong>Desenvolvimento Web & Dados</strong>. <br>
+  Olá! Sou <strong>Pâmela</strong> e minha principal área de atuação é <strong>Desenvolvimento Web & Dados</strong>. 
+  <br>
   Atualmente, sou estudante de Ciência da Computação na UERN, onde atuo como Estagiária de Desenvolvimento Full Stack na PRAE e como Pesquisadora de Iniciação Científica focada em tecnologias para impacto social.
 </p>
 
